@@ -1,15 +1,10 @@
-.App{
+/* .App{
 
-  display: flex;
-  flex-wrap: wrap;
-  gap: 30px;
-  margin: auto;
-  max-width: 1000px;
-  
+ 
 }
+ */
 
-
-.App .pesquisa button{
+.pesquisa button{
 
   background-color: rgba(235, 99, 99, 0.918);
   color: #fff;
@@ -24,7 +19,7 @@
 }
 
 
-.App .pesquisa form{
+.pesquisa form{
 margin-top: 5px;
 display: flex;
 flex-direction: column;
@@ -32,3 +27,18 @@ flex-direction: column;
 
 
 }
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: auto;
+  width: 99;
+  
+  
+  
+}
+
+
+
+/* PROJETO EM CONSTRUÇÃO */
