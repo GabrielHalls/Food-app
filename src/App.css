@@ -20,12 +20,14 @@
 
 .pesquisa h1{
   text-align: center;
+  
 }
 
 .input{
   width: 200px;
   border-radius: 20px;
   margin: auto;
+  text-align: center;
 }
 
 
